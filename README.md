@@ -35,3 +35,5 @@ Creates two products: Car Insurance and Health Insurance
 Registers two policyholders: Jane Smith and John Doe.
 Processes a standard payment for Jane and John.
 Displays the final account details and status for both users.
+
+[Author: Precious Donald]
